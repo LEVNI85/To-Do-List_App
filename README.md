@@ -1,8 +1,9 @@
-"# To-Do-List_App" 
-"Current Version 0.1.0- 19-12-2024"
-"Author: Levan Petrosian"
-"Language: C++" (STL and Ctime involved)
-"Basic application for begginers to start coding"
+# To-Do-List_App
+Current Version 0.1.0- 19-12-2024
+Author: Levan Petrosian
+
+Language: C++ (STL and Ctime involved)
+Basic application for begginers to start coding
 
 Features:
 1. add a task (with description, priority(high/medium/low), deadline, status)-unique id involved
