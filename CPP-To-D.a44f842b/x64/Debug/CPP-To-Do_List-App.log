@@ -1,0 +1,9 @@
+﻿  CPP-To-Do_List-App.cpp
+C:\Users\petro\source\repos\CPP-To-Do_List-App\CPP-To-Do_List-App.cpp(48,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\petro\source\repos\CPP-To-Do_List-App\CPP-To-Do_List-App.cpp(49,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\petro\source\repos\CPP-To-Do_List-App\CPP-To-Do_List-App.cpp(50,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\petro\source\repos\CPP-To-Do_List-App\CPP-To-Do_List-App.cpp(54,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\petro\source\repos\CPP-To-Do_List-App\CPP-To-Do_List-App.cpp(55,31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\petro\source\repos\CPP-To-Do_List-App\CPP-To-Do_List-App.cpp(56,33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\petro\source\repos\CPP-To-Do_List-App\CPP-To-Do_List-App.cpp(156,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CPP-To-Do_List-App.vcxproj -> C:\Users\petro\source\repos\CPP-To-Do_List-App\x64\Debug\CPP-To-Do_List-App.exe
